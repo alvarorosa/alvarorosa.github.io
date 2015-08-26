@@ -46,7 +46,7 @@ ul.nav {
 }
 
 #educadores{
-	background-color: #F5F5F5;
+	background-color: #FFE44A;
 }
 
 #proposta-ensino{
@@ -314,6 +314,35 @@ ul.nav {
 .foto img{
 	width: 100%;
 	/*padding-bottom: 10px;*/
+}
+
+#turmas{
+	background-color: #DFF4F5;
+	margin-top: 20px;
+}
+
+
+
+
+.turma-img img{
+	width: 50%;
+}
+
+.row-turmas{
+	margin-top: 0;
+}
+
+
+.row-turmas span{
+	font-family: 'Signika';
+	font-size: 18px;
+	color: #E74C3C;
+	font-weight: 700;
+	color: 
+}
+
+.turma-img{
+	margin-bottom: 50px;
 }
 
 
