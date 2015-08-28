@@ -332,19 +332,67 @@ ul.nav {
 	margin-top: 0;
 }
 
-
 .row-turmas span{
 	font-family: 'Signika';
-	font-size: 18px;
-	color: #E74C3C;
-	font-weight: 700;
-	color: 
+    font-size: 18px;
+    color: #E74C3C;
+    font-weight: 700;
 }
 
 .turma-img{
 	margin-bottom: 50px;
 }
 
+#cta h1{
+	
+	color: #FFBD39;
+	
+}
+
+
+#cta .btn-lg{
+	font-family: 'Signika', sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: white;
+	/*border-color: #00C3C3;
+	background-color: #00C3C3;*/
+	border-color: #02B7B7;
+	background-color: #02B7B7;
+	margin-top: 0;
+}
+
+#cta .btn-lg:hover{
+	background-color: #02B7B7;
+	border-color: #02B7B7;
+	}
+
+
+
+#cta .btn-lg:active{
+	background-color: #0ac9ba;
+	border-color: #0ac9ba;
+	}
+
+#contate{
+	background-color: #05B7F5;
+}
+
+/*#contato hr{
+	border-color: #ACE276;
+}
+
+#contato h2, #contato h3, #contato p{
+	color: white;
+}
+
+#contato span{
+	font-family: 'Signika';
+	font-size: 30px;
+	color: #ACE276;
+	font-weight: 700;
+}*/
 
 footer{
 	background-color: white;
