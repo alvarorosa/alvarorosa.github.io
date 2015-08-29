@@ -379,11 +379,21 @@ ul.nav {
 	background-color: #05B7F5;
 }
 
+.formas-contato a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.formas-contato a:hover{
+	color: #ADE376;
+	
+}
+
 .homepage-contate{
 
 	text-align: center;
 	padding-top: 40px;
-  padding-bottom: 60px;
+  padding-bottom: 20px;
 }
 
 .homepage-contate h2, .homepage-contate h3{
@@ -408,7 +418,7 @@ ul.nav {
 	font-size: 15px;
 	color: #fff;
 	line-height: 150%;
-	margin-bottom: 30px;
+	margin-bottom: 0;
 
 }
 
@@ -420,6 +430,7 @@ ul.nav {
 
 .homepage-contate span{
 	color: #ADE376;
+
 }
 
 
