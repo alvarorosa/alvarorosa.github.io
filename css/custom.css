@@ -471,6 +471,13 @@ footer img{
 
 }
 
+
+/*.navbar-inverse .navbar-nav li{
+	background-color: #f7f7f7;
+}*/
+
+
+
 /* Responsive Styling */
 
 @media (max-width: 1199px) {
