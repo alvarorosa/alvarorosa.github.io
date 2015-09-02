@@ -51,6 +51,7 @@ ul.nav {
 }
 
 
+
 .navbar-inverse .navbar-toggle{
 	border: none;
 	background-color: #05B7F5;
@@ -556,7 +557,7 @@ footer img{
 
 	.logo{
 	content: url(../images/logo-dbambini-responsive.png);
-	height: 38px;
+	height: 35px;
 
 
 
