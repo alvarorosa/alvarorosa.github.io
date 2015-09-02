@@ -356,6 +356,16 @@ ul.nav {
 	
 }
 
+.formas-contato a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.formas-contato a:hover{
+	color: #ADE376;
+	
+}
+
 .homepage-contate{
 
 	text-align: center;
