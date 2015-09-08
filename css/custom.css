@@ -12,7 +12,7 @@ h2{
 
 .navbar{
 	background-color: white;
-	border-color: white;
+	border-color: #F5F5F5;
 	opacity: 0.97;
 }
 
@@ -50,6 +50,15 @@ ul.nav {
 	font-size: 13px;
 }
 
+.navbar-inverse .navbar-nav .active a{
+	background-color: #F5F5F5;
+	
+
+}
+
+.navbar-inverse .navbar-nav .active a:hover{
+	background-color: #F5F5F5;
+}
 
 
 .navbar-inverse .navbar-toggle{
