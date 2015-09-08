@@ -624,7 +624,8 @@ footer img{
 
 	.logo{
 	content: url(../images/logo-dbambini.png);
-	height: 38px;
+	height: 35px;
+	padding-top: 3px;
 	}
 
 }
