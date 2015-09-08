@@ -98,8 +98,6 @@ ul.nav {
 
 .jumbotron {
 	text-align: center;
-	/*background: #00baff url('../images/painted-hands.png') no-repeat;*/
-	/*background: #dd2b41 url('../images/painted-hands.png') no-repeat;*/
 	background: #FFAD08 url('../images/painted-hands.png') no-repeat;
 	background-size: cover;
 	color: white;
@@ -596,6 +594,8 @@ footer img{
 
 @media (max-width: 767px) {
 
+
+
 	.jumbotron h1 {
 		font-size: 34px;
 		
@@ -606,12 +606,15 @@ footer img{
 		padding: 0;
 	}
 
+
+
 	.homepage p{
-		font-size: 18px;
+		font-size: 15px;
 	}
 
 	.btn-lg{
-		font-size: 26px;
+		font-size: 21px;
+		margin-top: 0;
 	}
 
 	footer img{
