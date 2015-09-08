@@ -606,8 +606,6 @@ footer img{
 		padding: 0;
 	}
 
-
-
 	.homepage p{
 		font-size: 15px;
 	}
@@ -630,6 +628,16 @@ footer img{
 	height: 36px;
 	/*padding-top: 3px;*/
 	}
+
+
+	#proposta-ensino .col-md-4 {
+		/*border-bottom: 1px solid #e8e8e8;*/
+		padding: 40px 15px 30px 15px;
+	}
+
+
+
+
 
 }
 
