@@ -51,12 +51,19 @@ ul.nav {
 }
 
 .navbar-inverse .navbar-nav .active a{
-	background-color: #F5F5F5;
-	
+	background-color: #F5F5F5;	
 
 }
 
 .navbar-inverse .navbar-nav .active a:hover{
+	background-color: #F5F5F5;
+}
+
+.navbar-inverse .navbar-nav .active a:focus{
+	background-color: #F5F5F5;
+}
+
+.navbar-inverse .navbar-nav .active a:active{
 	background-color: #F5F5F5;
 }
 
@@ -472,6 +479,7 @@ footer{
 	background-color: white;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	position: relative;
 	
 }
 
@@ -526,6 +534,18 @@ footer img{
 #navbar-footer a:hover{
 	color: #dd2b41;
 
+}
+
+#back-to-top{
+	position: absolute;
+    bottom: 70px;
+    right: 20px;
+    opacity: 0.2;
+
+}
+
+#back-to-top a{
+	color: black;
 }
 
 

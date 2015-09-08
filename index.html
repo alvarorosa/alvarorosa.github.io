@@ -37,7 +37,7 @@
     <![endif]-->
   </head>
 
-  <body data-spy="scroll" data-target=".navbar-collapse">
+  <body data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
 
 <!-- NAV BAR -->
 
@@ -51,7 +51,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#"><!-- <img src="images/logo-dbambini.png" alt="Centro Educacional D'Bambini" title="Centro Educacional D'Bambini"> --><div class="logo"></div></a>
+          <a class="navbar-brand" href="#jumbotron"><!-- <img src="images/logo-dbambini.png" alt="Centro Educacional D'Bambini" title="Centro Educacional D'Bambini"> --><div class="logo"></div></a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
@@ -68,7 +68,7 @@
     </nav>
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
+    <div id="jumbotron" class="jumbotron">
       <div class="container">
         <h1>Viver a infância plenamente!</h1>
             
@@ -535,7 +535,14 @@
 
             
         </div>
+
+            <div id="back-to-top">
+              <a href="#jumbotron"><i class="fa fa-3x fa-chevron-circle-up"></i></a>
+            </div>
+
       </footer>
+
+      
     
 
 
@@ -544,7 +551,9 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/smoothscrool.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+
   </body>
 </html>
